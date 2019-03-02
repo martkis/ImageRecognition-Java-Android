@@ -1,4 +1,4 @@
-# ImageRecognition-Java-Android
+# The rozpoZNAK application - second part
 
 > This is second part of the application used to recognize road signs using python and java android. 
 
@@ -8,4 +8,4 @@ The repository contains all files needed to run this part of application in your
 
 ### Installing and Using
 
-Just click the button clone or download above
+Just click the clone or download button above, download this project and run via Android Studio on emulator or your device.
